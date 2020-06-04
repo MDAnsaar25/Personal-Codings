@@ -1,0 +1,7 @@
+r = int(input("Enter the radius of the circle"))
+c = 2*(3.14*r)
+d = 2*r
+a = 3.14*(r*r)
+print("The circumference of the circle :"+ str(c))
+print("The diameter of the circle :"+ str(d))
+print("The area of the circle :"+ str(a))
