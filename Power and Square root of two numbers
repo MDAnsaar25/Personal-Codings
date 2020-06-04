@@ -1,0 +1,13 @@
+//////Power of two numbers//////
+x = int(input("Enter a number "))
+y = int(input("Enter another number "))
+z = pow(x,y)
+print("The power of given number is : " + str(z))
+////////////
+
+//////Square root of two numbers//////
+import math
+a = float(input("Enter the number "))
+s = math.sqrt(a)
+print("The square root of given number is :" +str(s))
+////////////
