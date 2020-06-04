@@ -1,0 +1,12 @@
+//////Area of Rectangle//////
+a = int(input("Enter the length"))
+b = int(input("Enter the width"))
+area = (a*b)
+print("area is : "+ str (area))
+////////////
+
+//////Perimeter of Rectangle//////
+a = int(input("Enter the length"))
+b = int(input("Enter the width"))
+p = (2*(a+b))
+print("Perimeter is : "+ str (p))
